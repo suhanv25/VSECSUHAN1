@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+body {
+    cursor: none;
+}
+    #myButton {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    #myButton img {
+        width: 155px;
+        height: 155px;
+    }
+
+    #police {
+        position: absolute;
+        width: 140px;
+        height: 140px;
+        pointer-events: none;
+    }
