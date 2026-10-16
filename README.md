@@ -2,11 +2,11 @@ VSEC Full Stack Assignment
 
 Student Details
 
-Name : Atharv Sandip Pawar
+Name : Suhan Faiyyaz Saiyyad
 
 TY Btech IT B 
 
-Roll No : 122
+Roll No : 130
 
 About the Assignment
 
@@ -114,6 +114,6 @@ Conclusion
 
 This assignment provided practical experience in basic web development and version control. By creating a login page student marks table and traffic light simulator I learned how HTML CSS and JavaScript work together to create interactive webpages. The Git commands also helped me understand the basics of version control and project management.
 
-Name Atharv Sandip Pawar
+Name Suhan Faiyyaz Saiyyad
 
-Roll No 122
+Roll No 130
