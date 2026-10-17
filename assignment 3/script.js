@@ -25,3 +25,4 @@ function calculate() {
     else {
         document.getElementById("topper").innerHTML = "Amit";
     }
+}
